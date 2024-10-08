@@ -363,4 +363,4 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # API key
-wwwroot/appsettings.json
+RandomowyPolak/wwwroot/appsettings.json
